@@ -16,8 +16,7 @@ This project is a simple AI-powered web app that generates detailed descriptions
 ### Usage
 
 - **Llama API Key**: Users need to obtain their own **Llama API key** and add it to the `st.secrets['API_KEY']` configuration in the code.
-- **Live URL**: You can access the live version of this project at the following URL:  
-  [Live URL](https://app-8tywqga4ja4uvnhvfpsdgj.streamlit.app/)
+- **Live URL**: You can access the live version of this project at the following URL: https://app-8tywqga4ja4uvnhvfpsdgj.streamlit.app
 
 ### Features
 
