@@ -145,5 +145,4 @@ webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.7.0
 widgetsnbextension==4.0.10
-WMI==1.5.1
 xlwings==0.32.1
