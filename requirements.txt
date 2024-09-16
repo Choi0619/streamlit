@@ -100,13 +100,11 @@ pyinstaller==6.3.0
 pyinstaller-hooks-contrib==2023.11
 pynput==1.7.6
 pyparsing==3.1.4
-pypiwin32==223
 PySimpleGUI==4.60.5
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2024.2
 pywin32-ctypes==0.2.2
-pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2
 qtconsole==5.5.2
